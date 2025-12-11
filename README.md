@@ -3,10 +3,13 @@
 ### *Learn the Skills the World Actually Values*
 
 
-/ ***| __ *(*) | | __ *| |** / ***|| |** (*) |*
-| |  _ / *` | | | |/ _` | '* \_*_ | '_ | | **|
-| |*| | (*| | | | | (*| | | | |***) | | | | | |_
-___*|_*,*|*|*|*|_*,*|*| |*|__**/|*| |*|*|_*|
+   ____       _ _ _       _     ____  _     _ _     
+  / ___| __ _(_) | | __ _| |__ / ___|| |__ (_) |_   
+ | |  _ / _` | | | |/ _` | '_ \\\___ \| '_ \| | __|  
+ | |_| | (_| | | | | (_| | | | |___) | | | | | |_    
+  \____|\__,_|_|_|_|\__,_|_| |_|____/|_| |_|_|\__|   
+                                                    
+
 
 # 🚀 **Project Tagline**
 
@@ -142,5 +145,3 @@ New visualizations, data cleaning improvements, or feature ideas are all welcome
 
 This project is under the **MIT License**.
 Feel free to use, modify, and share it.
-
-```
